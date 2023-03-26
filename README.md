@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Dalitso Sakala
+### Hi there 👋, I'm [Dalitso Sakala](https://dalitsosakala.github.io)
 
 - 🌱 I’m currently learning AI and systems programming languages
 - 📫 How to reach me: [Twitter Dm](https://twitter.com/aboutdalitso) or [IG](https://instagram.com/aboutdalitso)
